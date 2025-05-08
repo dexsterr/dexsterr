@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Oskar im from Poland and im 20 years old.</p>
+<h2 align="left">My name is Oskar im from Poland and im 20 years old.</h2>
 
 ###
 
-<h2 align="left">I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community. Check out my portfolio on GitHub Pages: dexsterr.github.io</h2>
+<p align="left">I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community. Check out my portfolio on GitHub Pages: dexsterr.github.io</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/oskar-chudoba-474849340/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
