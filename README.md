@@ -3,7 +3,7 @@
 I'm a 20-year-old cybersecurity enthusiast, dedicated to continuous growth and deeply engaged in advancing my expertise in the field. As a current Cybersecurity student, I'm passionate about exploring the ever-evolving world of digital security, from network defense to ethical hacking.
 
 ### 🔒 What I'm Working On
-I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community. Check out my portfolio on GitHub Pages: [dexsterr.github.io](https://dexsterr.github.io)
+I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community. Check out my portfolio on GitHub Pages: [dexsterr.github.io]([https://dexsterr.github.io](https://dexsterr.github.io/portfolio))
 
 
 ### 🌟 Interests & Hobbies
