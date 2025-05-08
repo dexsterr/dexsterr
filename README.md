@@ -13,5 +13,3 @@ Beyond cybersecurity, I’m passionate about film editing and montage, and I enj
 Feel free to explore my projects or reach out to discuss cybersecurity, tech, or anything else!
 
 ---
-
-⭐ If you find my work inspiring, give my repos a star! ⭐
