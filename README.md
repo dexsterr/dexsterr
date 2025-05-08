@@ -1,7 +1,5 @@
 <h1 align="left">Who am I? 👨🏼‍💻</h1>
 
-###
-
 <h2 align="left">I'm a 20 years old cybersecurity student from Cracow.</h2>
 
 ###
