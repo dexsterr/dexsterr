@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community. Check out my portfolio on GitHub Pages: dexsterr.github.io</p>
+<p align="left">I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community.</p>
 
 ###
 
