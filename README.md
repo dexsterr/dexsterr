@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Oskar im from Poland and im 20 years old.</h2>
+<h2 align="left">I'm a 20 years old cybersecurity student from Cracow.</h2>
 
 ###
 
