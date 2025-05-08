@@ -26,7 +26,7 @@
   </a>
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dexsterr/dexsterr/blob/output/github-snake-dark.svg" />
@@ -34,4 +34,3 @@
   <img alt="github-snake" src="https://github.com/dexsterr/dexsterr/blob/output/github-snake.svg" />
 </picture>
 
-###
