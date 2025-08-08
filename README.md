@@ -12,7 +12,7 @@
 
 ###
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0dexster.png)](https://tryhackme.com/p/0dexster)
+[![TryHackMe Badge]([https://tryhackme-badges.s3.amazonaws.com/0dexster.png](https://tryhackme-badges.s3.amazonaws.com/0dexster.png))](https://tryhackme.com/p/0dexster)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oskar-chudoba-474849340/" target="_blank">
