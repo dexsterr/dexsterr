@@ -19,8 +19,8 @@
   <a href="mailto:oskarchudoba@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://tryhackme.com/p/0dexster">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0dexster.png" alt="TryHackMe Badge" width="52" height="40" />
+<a href="https://tryhackme.com/p/0dexster">
+  <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Logo" width="32" height="32" />
 </a>
 </div>
 
