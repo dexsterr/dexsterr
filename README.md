@@ -11,7 +11,7 @@
 <p align="left">Beyond cybersecurity, I’m passionate about film editing and montage, and I enjoy staying active by hitting the gym regularly. I’m always eager to learn, connect, and collaborate on exciting projects!</p>
 
 ###
-<a href="https://ibb.co/FrxRj6m"><img src="https://i.ibb.co/FrxRj6m/xx.png" alt="xx" border="0"></a>
+![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/0dexster.png)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/oskar-chudoba-474849340/" target="_blank">
