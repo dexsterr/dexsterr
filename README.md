@@ -18,4 +18,4 @@
 <a href="https://tryhackme.com/p/0dexster"><img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" width="32" height="32" /></a>
 </div>
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/0dexster.png" alt="Your Image Badge" />
