@@ -17,11 +17,3 @@ I'm passionate about cybersecurity, hands-on projects, and continuously developi
 <a href="https://tryhackme.com/p/0dexster">
   <img src="https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white" />
 </a>
-
-### 🏆 TryHackMe
-
-<p>
-  <a href="https://tryhackme.com/p/0dexster">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0dexster.png" alt="TryHackMe Profile Badge" />
-  </a>
-</p>
