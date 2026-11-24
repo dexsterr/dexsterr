@@ -1,21 +1,29 @@
-<h1 align="left">Who am I? 👨🏼‍💻</h1>
+# 👨‍💻 Who am I?
 
-<h2 align="left">I'm a 21 years old cybersecurity student from Cracow.</h2>
+### Cybersecurity student from Cracow, Poland.
 
-###
+I'm passionate about cybersecurity, hands-on projects, and continuously developing my technical skills. I enjoy exploring new technologies, solving problems, and contributing to the cybersecurity community.
 
-<p align="left">I actively develop hands-on projects to strengthen my skills and contribute to the cybersecurity community.</p>
+Outside of cybersecurity, I'm interested in **video editing, film production, and fitness**. Always open to learning, connecting, and collaborating on interesting projects.
 
-###
+---
 
-<p align="left">Beyond cybersecurity, I’m passionate about film editing and montage, and I enjoy staying active by hitting the gym regularly. I’m always eager to learn, connect, and collaborate on exciting projects!</p>
+### 🌐 Connect with me
 
-###
+<a href="https://www.linkedin.com/in/oskarchudoba">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:oskarchudoba@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/0dexster">
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white" />
+</a>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/oskarchudoba"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="32" height="32" /></a>
-<a href="mailto:oskarchudoba@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="32" height="32" /></a>
-<a href="https://tryhackme.com/p/0dexster"><img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe" width="32" height="32" /></a>
-</div>
+### 🏆 TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0dexster.png" alt="Your Image Badge" />
+<p>
+  <a href="https://tryhackme.com/p/0dexster">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0dexster.png" alt="TryHackMe Profile Badge" />
+  </a>
+</p>
